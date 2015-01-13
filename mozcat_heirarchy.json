@@ -67,7 +67,7 @@
 					"united kingdom", "ukraine", "usa", "uganda", "united arab emirates",
 					"venezuela", "vanuatu", "vietnam",
 					"yemen",
-					"zaire", "zambia", "zimbabwe",
+					"zaire", "zambia", "zimbabwe"
 				],
 	"world areas": ["west africa", "north africa", "africa", "east africa",
 					"asia", "east asia", "south-east asia",
@@ -75,7 +75,7 @@
 					"europe", "eastern europe",
 					"middle east",
 					"antarctica", "arctic",
-					"polynesia",
+					"polynesia"
 					],
 	"technology & computing": ["computer peripherals", "web search", "desktop publishing", "windows", "cell phones", "unix", "email", "databases", "computer science", "computer security",
 							   "internet culture", "video games", "apple mac", "audio", "computer programming", "cameras & video", "internet technology", "mobile apps", "computer graphics",
