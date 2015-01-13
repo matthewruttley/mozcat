@@ -46,7 +46,7 @@
 	"travel": ["cruise vacations", "budget travel", "us national parks", "hotels", "theme parks", "air travel", "trains", "adventure"],
 	"world countries": [
 					"albania", "afghanistan", "australia", "armenia", "argentina", "azerbaijan", "austria", "algeria", "antigua and barbuda",
-					"brazil", "bulgaria", "burkina faso", "bhutan", "belgium", "bolivia", "barbados", "belize", "bangladesh", "belarus", "botswana", "bahamas", "burundi", "bosnia and herzegovina"
+					"brazil", "bulgaria", "burkina faso", "bhutan", "belgium", "bolivia", "barbados", "belize", "bangladesh", "belarus", "botswana", "bahamas", "burundi", "bosnia and herzegovina",
 					"central african republic", "chad", "cambodia", "croatia", "cyprus", "china", "colombia", "canada", "czech republic", "chile", "cook islands", "comoros", "cape verde", "congo",
 					"denmark", "dominican republic", "dominica",
 					"equatorial guinea", "el salvador", "estonia", "ecuador", "eritrea", "east timor", "egypt", "ethiopia",
@@ -56,7 +56,7 @@
 					"iran", "iraq", "israel", "india", "ireland", "indonesia", "italy",
 					"japan", "jordan",
 					"kyrgyzstan", "kosovo", "kuwait", "kazakhstan", "kenya", "kiribati",
-					"liberia", "latvia", "luxembourg", "libya", "lebanon", "lesotho", "laos"
+					"liberia", "latvia", "luxembourg", "libya", "lebanon", "lesotho", "laos",
 					"malaysia", "mozambique", "mauritania", "mali", "madagascar", "mongolia", "macedonia", "micronesia", "mauritius", "myanmar", "malta", "malawi", "mexico", "morocco", "marshall islands", "maldives", "montenegro", "moldova",
 					"nicaragua", "nepal", "niger", "north korea", "norway", "namibia", "new zealand", "nigeria", "netherlands",
 					"oman",
@@ -70,11 +70,11 @@
 					"zaire", "zambia", "zimbabwe",
 				],
 	"world areas": ["west africa", "north africa", "africa", "east africa",
-					"asia", "east asia", "south-east asia"
+					"asia", "east asia", "south-east asia",
 					"south america", 'north america',
 					"europe", "eastern europe",
 					"middle east",
-					"antarctica", "arctic"
+					"antarctica", "arctic",
 					"polynesia",
 					],
 	"technology & computing": ["computer peripherals", "web search", "desktop publishing", "windows", "cell phones", "unix", "email", "databases", "computer science", "computer security",
