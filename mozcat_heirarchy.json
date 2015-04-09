@@ -15,7 +15,7 @@
 							"sci-fi", "drugs", "photography", "smoking", "pottery", "scouting", "genealogy", "comics", "horse racing", "needlework",
 							"metalworking", "painting", "drawing"],
 	"sports": ["american football", "skating", "walking", "boxing", "golf", "skiing", "wrestling", "gymnastics", "skateboarding", "bodybuilding", "shooting", "basketball",
-			   "yoga", "fencing", "tennis", "olympics", "hockey", "soccer", "martial arts", "cricket", "cheerleading", "running", "baseball", "darts", "cycling", "horse riding",
+			   "yoga", "fencing", "tennis", "olympics", "field hockey", "ice hockey", "soccer", "martial arts", "cricket", "cheerleading", "running", "baseball", "darts", "cycling", "horse riding",
 			   "archery", "climbing", "surfing", "rugby", "sailing", "racing", "rowing", "kayaking", "volleyball", "bowling", "snowboarding", "scuba diving", "game & fishing",
 			   "swimming", "lacrosse"],
 	"religion": ["judaism", "wicca", "christianity", "buddhism", "shinto", "hinduism", "islam"],
